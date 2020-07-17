@@ -1,1 +1,4 @@
+Text Processsing basics:-
 
+Normalize by converying it into lower case and removing .,! etc
+Then tokenizse by spliting it into words -- > remove stop words ---> stem and lemitizaton
